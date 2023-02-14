@@ -1,4 +1,8 @@
-Hola!👋 soy Nahuel Grodz
+Hola!👋 Me llamo Nahuel, tengo actualmente 24 años y acabo de terminar con el bootcamp de SoyHenry
+
+Desde muy chico siempre estuve atrás de una computadora, e interesado en el mundo de la tecnología, hace un par de años se me despertó el interés por la programación pero no había tenido la oportunidad de estudiarlo hasta que conocí Henry, donde me convertí en Full Stack Developer.
+
+Soy argentino, vivo en Concepción del Uruguay, Entre ríos, una hermosa ciudad portuaria y con unas playas excelentes, actualmente vivo con mis padres, mi hermano y 7 hermosos perros rescatados de las calles.
 
 Desarrollador web con experiencia en tecnologías como React, Redux, Node.js, Express, JavaScript, HTML, CSS, PostgreSQL, SQL.
 
